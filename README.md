@@ -1,6 +1,6 @@
 
 ## Descripción
-**Paint_JAVR** es una innovadora aplicación de pintura que permite a los usuarios crear y editar imágenes de manera intuitiva. Este proyecto utiliza técnicas de computación tolerante para asegurar un rendimiento óptimo y una experiencia de usuario fluida.
+**Paint_JAVR** es una innovadora aplicación de pintura que permite a los usuarios crear y editar dibujos de manera intuitiva. Este proyecto utiliza técnicas de computación tolerante para asegurar un rendimiento óptimo y una experiencia de usuario fluida.
 
 ## Características
 - **Herramientas de Dibujo:** Pincel, borrador, formas y más.
