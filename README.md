@@ -50,6 +50,6 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más 
 
 ## Contacto
 Para más información, puedes contactar a:
-- **Nombre:** Tu Nombre
-- **Email:** tuemail@example.com
-- **GitHub:** [TuPerfil](https://github.com/TuPerfil)
+- **Nombre:** Jordi Andony Vargas Ruiz
+- **Email:** jordi_vr2000@hotmail.com
+- **GitHub:** JordiVargasRuiz
