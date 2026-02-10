@@ -1,13 +1,14 @@
-![Logo del Proyecto](ruta/a/tu/logo.png)
 
 ## Descripción
 **Paint_JAVR** es una innovadora aplicación de pintura que permite a los usuarios crear y editar imágenes de manera intuitiva. Este proyecto utiliza técnicas de computación tolerante para asegurar un rendimiento óptimo y una experiencia de usuario fluida.
 
 ## Características
 - **Herramientas de Dibujo:** Pincel, borrador, formas y más.
+  <img width="996" height="680" alt="image" src="https://github.com/user-attachments/assets/b3d8804a-05cf-4cb4-a69b-75ae98e6b5ae" />
+
 - **Paleta de Colores:** Selección de múltiples colores para personalizar tus creaciones.
 - **Funcionalidad de Deshacer/Rehacer:** Mantén el control total sobre tus ediciones.
-- **Guardar y Cargar Imágenes:** Guarda tus obras maestras y vuelve a editarlas más tarde.
+- **Guardar:** Guarda tus obras maestras y vuelve a editarlas más tarde.
 
 ## Requisitos
 - **Python 3.x**
